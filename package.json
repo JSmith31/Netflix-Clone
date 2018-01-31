@@ -1,0 +1,17 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "A Netflix Clone (without playback functionality, for obvious reasons).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Netflix",
+    "Clone",
+    "Concept",
+    "Mockup"
+  ],
+  "author": "Jalisa Smith",
+  "license": "ISC"
+}
