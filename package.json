@@ -13,5 +13,12 @@
     "Mockup"
   ],
   "author": "Jalisa Smith",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free-regular": "^5.0.6",
+    "bootstrap": "^4.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {}
 }
